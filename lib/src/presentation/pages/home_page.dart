@@ -85,7 +85,7 @@ class _HomePageState extends State<HomePage> {
         Padding(
           padding: const EdgeInsets.fromLTRB(28, 0, 16, 0),
           child: Text(
-            'Option',
+            'Options',
             style: Theme.of(context).textTheme.titleSmall,
           ),
         ),
