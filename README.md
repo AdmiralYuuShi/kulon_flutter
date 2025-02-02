@@ -1,16 +1,23 @@
-# kulon
+<h1 align="center">Kulon Flutter</h1>
+<p align="center">
+    <img width="600" src="./screenshots/Screenshot_2025-02-02-22-15-06-005_com.example.kulon.jpg">
+</p>
+<p align="center">
+  Built with <b>Flutter</b> and integrated with <b>Firebase</b>.
+</p>
 
-A new Flutter project.
+## Introduction
+Kulon - Kuliah Online is a learning platform designed for students and lecturers. Built with Flutter, Kulon offers seamless access to educational resources across multiple devices, including Android, iOS, desktop, and web. The application provides an interactive and user-friendly environment for online lectures, assignments, discussions, and academic collaboration, ensuring a flexible and efficient learning experience anytime, anywhere.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributors
+<center>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/AdmiralYuuShi">
+          <sub><b>Hapid Moch Jamil</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</center>
